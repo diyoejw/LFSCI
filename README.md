@@ -41,6 +41,7 @@ Ensure filename correspondence between T1 and T2 folders
 ### Execution
 ```bash
 python LFSCI.py
+```
 Output
 Results are saved as CSV with columns:
 
@@ -53,7 +54,6 @@ Results are saved as CSV with columns:
 
 ## Technical Details
 ### Parameters
-```python
 {
     'LFSCI_layers': 100,      # Number of vertical layers
     'LFSCI_min_height': 0,    # Minimum height of points included in calculation (in meters; can be used to filter ground points in sparse forests)
