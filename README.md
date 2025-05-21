@@ -31,12 +31,14 @@ pip install -r requirements.txt
 
 ### Data Preparation
 Organize point clouds:
+```
 LFSCI/
 ├── point_clouds/
 │   ├── T1/  # Time period 1 LAS files
 │   └── T2/  # Time period 2 LAS files
 └── results/ # Output directory (auto-created)
 Ensure filename correspondence between T1 and T2 folders
+```
 
 ### Execution
 ```bash
