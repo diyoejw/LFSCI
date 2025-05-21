@@ -56,11 +56,11 @@ Results are saved as CSV with columns:
 
 ## Technical Details
 ### Parameters
-{
-    'LFSCI_layers': 100,      # Number of vertical layers
-    'LFSCI_min_height': 0,    # Minimum height of points included in calculation (in meters; can be used to filter ground points in sparse forests)
-    'crown_init_threshold': 0.2  # Growth rate threshold for identifying the crown initiation layer
-}
+```
+'LFSCI_layers': 100,      # Number of vertical layers
+'LFSCI_min_height': 0,    # Minimum height of points included in calculation (in meters; can be used to filter ground points in sparse forests)
+'crown_init_threshold': 0.2  # Growth rate threshold for identifying the crown initiation layer
+```
 
 ### Interpretation Guide
 | Value Range | Interpretation           |
