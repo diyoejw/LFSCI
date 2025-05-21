@@ -65,8 +65,8 @@ Results are saved as CSV with columns:
 ### Interpretation Guide
 | Value Range | Interpretation           |
 |-------------|-------------------------|
-| > 0         | Increased density (growth/recovery)  |
-| < 0         | Decreased density (damage/loss)      |
+| > 0         | growth/recovery  |
+| < 0         | damage/loss      |
 
 ## Citation
 Please cite:
