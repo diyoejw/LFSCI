@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ### Data Preparation
 Organize point clouds:
 ```
-LFSCI/
+LFSCI-main/
 ├── point_clouds/
 │   ├── T1/  # Time period 1 LAS files
 │   └── T2/  # Time period 2 LAS files
