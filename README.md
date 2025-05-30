@@ -71,7 +71,13 @@ Results are saved as CSV with columns:
 ## Citation
 Please cite:
 
-Author, A. (Year). Paper Title. Journal, Volume(Issue), pages. DOI
+Haochen Liu, Zhaolong Li, Lingya Huang, Zeyu Yang, Haoran Lin, Yuanyong Dian,
+Assessment of Forest Loss Following Snow and Ice Storms Using the LiDAR Forest Structure Change Index,
+Plant Phenomics,
+2025,
+100057,
+ISSN 2643-6515,
+https://doi.org/10.1016/j.plaphe.2025.100057.
 
 ## License
 MIT License
